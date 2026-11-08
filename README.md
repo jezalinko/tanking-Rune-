@@ -1,8 +1,10 @@
 # Tanking App
 
-Tanking App is a mobile-friendly Progressive Web App (PWA) with payload and fuel calculators, timers, a local flight log and an interactive caution and warning reference for the Bell 214B and 214ST. RuneKyndal created the original application. This repository is jezalinko’s maintenance fork. [Original project](https://github.com/RuneKyndal/tanking)
+Tanking App is a mobile-friendly Progressive Web App (PWA) with payload and fuel calculators, timers, a local flight log and an interactive caution and warning reference for the Bell 214B and 214ST. Rune Kyndal created the original application. This repository is Jeremy Whiting's maintenance fork. [Original project](https://github.com/RuneKyndal/tanking)
 
-> **Aviation safety.** Use the app for familiarisation and as a secondary reference. For flight planning, loading, navigation and abnormal or emergency actions, use the approved Rotorcraft Flight Manual and applicable supplements for the specific aircraft, approved checklists, operator procedures and aircraft instruments. Presets, reserve values, warning colours and procedure text in the app are unverified for your operation. [CASA flight rules reference for Australian operations](https://www.casa.gov.au/rules/regulatory-framework/casr/part-91-casr-general-operating-and-flight-rules)
+> **Aviation safety.** Use the app for familiarisation and as a secondary reference. For flight planning, loading, navigation and abnormal or emergency actions, use the approved Rotorcraft Flight Manual and applicable supplements for the specific aircraft, approved checklists, operator procedures and aircraft instruments. Presets, reserve values, warning colours and procedure text in the app are unverified for your operation.
+>
+> For U.S.-registered (N-rego) aircraft operating in Australia, follow the applicable FAA requirements and Australian flight rules. For Australian-registered (VH-rego) aircraft, follow the applicable CASA requirements. [FAA 14 CFR § 91.9 — flight manual and operating limitations](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.9) · [FAA 14 CFR § 91.703 — U.S.-registered aircraft operating overseas](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-H/section-91.703) · [CASA Part 91 — general operating and flight rules](https://www.casa.gov.au/rules/regulatory-framework/casr/part-91-casr-general-operating-and-flight-rules)
 
 ## Features
 
@@ -53,6 +55,8 @@ Use **Setup → Update App** with a reliable connection. It clears the offline c
 
 ## Maintenance and attribution
 
-Keep RuneKyndal’s attribution and Git history intact. Make changes on a branch, review the diff, test locally and use a pull request into the fork’s `main` branch. Before releasing changes to calculations, warnings or procedure text, have them independently checked against the approved documents for the applicable aircraft and operation.
+Keep Rune Kyndal’s attribution and Git history intact. Make changes on a branch, review the diff, test locally and use a pull request into the fork’s `main` branch. Before releasing changes to calculations, warnings or procedure text, have them independently checked against the approved documents for the applicable aircraft and operation.
 
 The reviewed upstream and fork trees contain no separate license file. The original manual invites forks and modifications. Check the applicable permissions before redistributing the app or its bundled material. [Original repository](https://github.com/RuneKyndal/tanking) · [Original manual source](https://github.com/RuneKyndal/tanking/blob/main/manual.html)
+
+*In memory of Rune. Thanks for the code and the laughs.*
